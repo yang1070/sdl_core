@@ -1290,7 +1290,7 @@
     </element>
     <element name="MOBILE_APP">
     </element>
-    <element name="RADIO_TUNNER">
+    <element name="RADIO_TUNER">
       <description>Radio may be on AM, FM or XM</description>
     </element>
   </enum>
@@ -1507,7 +1507,7 @@
     <element name="RADIO"/>
     <element name="AUDIO"/>
     <element name="LIGHT"/>
-    <element name="HMI_SETTIGNS"/>
+    <element name="HMI_SETTINGS"/>
   </enum>
 
   <enum name="RadioBand">
@@ -1740,7 +1740,7 @@
     <param name="ventilationMode" type="VentilationMode" mandatory="false">
     </param>
     <param name="heatedSteeringWheelEnable" type="Boolean" mandatory="false">
-      <description>value false means disabled/turn off, value true mean enabled/turn on.</description>
+      <description>value false means disabled/turn off, value true means enabled/turn on.</description>
     </param>
     <param name="heatedWindshieldEnable" type="Boolean" mandatory="false">
       <description>value false means disabled, value true means enabled.</description>
